@@ -1,5 +1,8 @@
 .DS_STORE
 
+# VSCode
+.vscode/
+
 # Logs
 logs
 *.log
